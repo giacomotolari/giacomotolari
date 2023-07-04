@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working at [DCI](https://digitalcareerinstitute.org/)
 
-- 🌱 I’m currently learning **docker**
-
 - 👯 I’m currently working also at [Taliox](https://taliox.io/)
 
-- 🤝 I’m currently working on [weDart](https://www.wedart.io/)
+- 🤝 I’m currently working on this projcect [weDart](https://www.wedart.io/)
 
+- 🌱 I’m currently learning **docker**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/giacomo-tolari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giacomo-tolari/" height="30" width="40" /></a>
