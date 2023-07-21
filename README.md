@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giacomo Tolari</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack developer and MERN stack teacher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giacomotolari&label=Profile%20views&color=0e75b6&style=flat" alt="giacomotolari" /> </p>
 
